@@ -1,4 +1,4 @@
-# hw2-challenge3
+# hw3-challenge3
 
 ## Password Generator
 
